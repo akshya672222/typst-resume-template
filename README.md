@@ -2,11 +2,24 @@
 
 A clean, professional, single-page resume template built with [Typst](https://typst.app/). Features a summary box, styled skill chips, themed section headers, and tight spacing controls to maximize content on one page.
 
-## Preview
+## Before & After
+
+This template was born from rebuilding my own resume from a 6.5/10 to a 9/10. Here's the transformation:
 
 <p align="center">
-  <img src="assets/preview/example-resume.png" alt="Resume Preview" width="700"/>
+  <table>
+    <tr>
+      <th>Before (6.5/10)</th>
+      <th>After (9/10)</th>
+    </tr>
+    <tr>
+      <td><img src="assets/preview/resume-before.png" alt="Resume Before" width="400"/></td>
+      <td><img src="assets/preview/resume-after.png" alt="Resume After" width="400"/></td>
+    </tr>
+  </table>
 </p>
+
+Same experience. Same person. Completely different story. [Read the full breakdown on Medium.](https://medium.com/@akshya672222)
 
 ## Features
 
